@@ -194,4 +194,4 @@ async def on_message(message):
     await message.channel.send('<a:skelepls:552650569135816720>')
     
 
-bot.run('Nzc0MDIwMTU0MDYxMjI2MDU1.X6RscQ.FXEJFRdRyUim06jg776R4ASrc60')
+bot.run('(insert token here)')
