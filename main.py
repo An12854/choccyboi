@@ -5,7 +5,7 @@ import time
 import asyncio
 
 bot = Bot(command_prefix='~')
-TOKEN = 'Nzc0MDIwMTU0MDYxMjI2MDU1.X6RscQ.FXEJFRdRyUim06jg776R4ASrc60'
+TOKEN = '(insert token here)'
 
 
 @bot.event
