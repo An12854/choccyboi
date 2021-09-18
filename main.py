@@ -156,7 +156,7 @@ async def on_message(message):
   if message.content.startswith('~scp'):
     await message.channel.send('http://scp-sandbox-3.wikidot.com/ayymd')
 
-  if message.content.startswith('~pound MrAss'):
+   if message.content.startswith('~pound MrAss'):
     await message.channel.send('<@!682224399482748953> got pounded by a horse <a:succanimated:585943845846646785>')
 
   if message.content.startswith('~dcxd'):
