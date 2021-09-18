@@ -27,3 +27,4 @@ https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
  3.2.1- Run bot or "python main.py"
 
 That's it! Bot will run until you close Terminal or stop IDE.
+ 
