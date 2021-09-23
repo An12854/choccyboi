@@ -26,7 +26,9 @@ https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 # 3: Running the bot
 3.1- Download main.py
 
- 3.1.1- Insert Bot Token in code
+ 3.1.1- Open terminal and write "pip install discord.py" if not installed already
+
+ 3.1.2- Insert Bot Token in code
 
 
 3.2- Open Python IDE or Terminal of choice
